@@ -1,0 +1,5 @@
+__pycache__
+nginx/ssl/
+node_exporter-1.7.0.linux-amd64.tar.gz
+prometheus-2.51.1.linux-amd64.tar.gz
+*.tar.gz
